@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADLIBexportdefinition>
+  <fileformat>XML</fileformat>
+  <allfields>no</allfields>
+  <fieldlist>
+   <field>afbeeldingsnummer</field>
+   <field>objectcategorie</field>
+   <field>benaming_kunstwerk</field>
+   <field>titel_engels</field>
+   <field>collectienaam</field>
+   <field>genre</field>
+   <field>RKD_algemene_trefwoorden</field>
+   <field>iconclass_code</field>
+   <field>datering_engels</field>
+   <field>eenheid</field>
+   <field>drager</field>
+   <field>materiaal</field>
+   <field>project</field>
+   <field>archiefreferentie</field>
+  </fieldlist>
+  <destination>\\storagecluster2\N-schijf\7_Werkmappen_personeel\sve\Downloads\export.xml</destination>
+</ADLIBexportdefinition>
